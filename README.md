@@ -1,4 +1,4 @@
-[Click here to visit Website](https://blinktalk-project-website-ls3g36i0r-lameess2s-projects.vercel.app/)
+[Click here to visit Website](https://lamstack.github.io/BlinkTalk-website/)
 
 # BlinkTalk-website
 BlinkTalk is a real-time assistive communication system that converts eye blinks into text, speech, and calls/SMS, providing an accessible communication solution for users with severe disabilities.
